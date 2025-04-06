@@ -39,8 +39,7 @@ The tool creates:
   4. Adding a progress bar or log window for larger folders
 
 ## 👨‍💻 Author
-  Developed by [Abhishek Satpathy] - [abhisat.com]
-  Feel free to fork, improve, and share! ❤️
+Developed by Abhishek Satpathy [https://abhisat.com]. Feel free to fork, improve, and share! ❤️
 
 
 
